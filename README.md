@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wolken-am-himmel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Wolken am Himmel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolken-am-himmel/) |
+| **Get License** | [Get License For Wolken am Himmel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolken-am-himmel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wolken am Himmel, doch ich seh' nur dein Gesicht, yeah
+> Die City schläft ein, aber wir beide noch nicht, babe
+> Dein Vibe ist zu wild, komm und steig in den Benz
+> Wir flieh'n durch die Nacht, keine Rules, no limits, no friends
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
