@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wolken-am-himmel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wolken am Himmel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolken-am-himmel/) |
+| **Get License** | [Obtain a Music License for Wolken am Himmel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wolken-am-himmel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8e125a44660734148602e360df166a115bbfddc5bb216c733837ba961444d595` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
